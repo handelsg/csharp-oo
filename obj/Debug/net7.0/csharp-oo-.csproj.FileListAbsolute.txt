@@ -1,0 +1,15 @@
+C:\Users\Handel Gomes\Desktop\csharp-oo-\obj\Debug\net7.0\csharp-oo-.csproj.AssemblyReference.cache
+C:\Users\Handel Gomes\Desktop\csharp-oo-\obj\Debug\net7.0\csharp-oo-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Handel Gomes\Desktop\csharp-oo-\obj\Debug\net7.0\csharp-oo-.AssemblyInfoInputs.cache
+C:\Users\Handel Gomes\Desktop\csharp-oo-\obj\Debug\net7.0\csharp-oo-.AssemblyInfo.cs
+C:\Users\Handel Gomes\Desktop\csharp-oo-\obj\Debug\net7.0\csharp-oo-.csproj.CoreCompileInputs.cache
+C:\Users\Handel Gomes\Desktop\csharp-oo-\bin\Debug\net7.0\csharp-oo-.exe
+C:\Users\Handel Gomes\Desktop\csharp-oo-\bin\Debug\net7.0\csharp-oo-.deps.json
+C:\Users\Handel Gomes\Desktop\csharp-oo-\bin\Debug\net7.0\csharp-oo-.runtimeconfig.json
+C:\Users\Handel Gomes\Desktop\csharp-oo-\bin\Debug\net7.0\csharp-oo-.dll
+C:\Users\Handel Gomes\Desktop\csharp-oo-\bin\Debug\net7.0\csharp-oo-.pdb
+C:\Users\Handel Gomes\Desktop\csharp-oo-\obj\Debug\net7.0\csharp-oo-.dll
+C:\Users\Handel Gomes\Desktop\csharp-oo-\obj\Debug\net7.0\refint\csharp-oo-.dll
+C:\Users\Handel Gomes\Desktop\csharp-oo-\obj\Debug\net7.0\csharp-oo-.pdb
+C:\Users\Handel Gomes\Desktop\csharp-oo-\obj\Debug\net7.0\csharp-oo-.genruntimeconfig.cache
+C:\Users\Handel Gomes\Desktop\csharp-oo-\obj\Debug\net7.0\ref\csharp-oo-.dll
